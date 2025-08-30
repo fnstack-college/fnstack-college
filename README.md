@@ -1,25 +1,77 @@
 ![logo](https://github.com/fnstack-college/fnstack-college/blob/main/Computer%20Science%20banner2.png)
-<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00F779&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vivek+Kumar;Frontend+Developer;DSA+%26+UI/UX+Learner;MERN+Stack+Enthusiast;Open+Source+Contributor" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&width=600&lines=🚀+A+Passionate+Frontend+Developer+from+India;⚡+Love+to+Code+%26+Design+with+Creativity" />
+</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fnstack-college&label=Profile%20views&color=0e75b6&style=flat" alt="fnstack-college" /> </p>
+### 👨‍💻 About Me
+- 🌱 Currently learning **Web Dev, DSA & UI/UX — building, solving, and designing every day**
+- ⚡ Exploring **Frontend + Backend (MERN soon 🚀)**
+- 📫 Reach me at **krvivekkumar121@gmail.com**  
+- 🎯 Goal: Build **impactful projects & contribute to open source** 
 
-- 🌱 I’m currently learning **"Learning Web Dev, DSA & UI/UX — building, solving, and designing every day"**
+---
 
-- 📫 How to reach me **krvivekkumar121@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
+  <a href="mailto:krvivekkumar121@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/fnstack-college" target="_blank"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40"/>
-</a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnstack-college&show_icons=true&locale=en&layout=compact" alt="fnstack-college" /></p>
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,python,mysql,oracle,figma,git,docker,vscode&perline=8" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fnstack-college&show_icons=true&locale=en" alt="fnstack-college" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fnstack-college&" alt="fnstack-college" /></p>
+### 📊 GitHub Analytics (3D Style)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnstack-college&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fnstack-college&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fnstack-college&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fnstack-college&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🎨 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fnstack-college&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🌀 Fun 3D GitHub Profile
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+
+
+
+
+
+
+
