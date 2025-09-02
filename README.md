@@ -7,7 +7,9 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&width=600&lines=🚀+A+Passionate+Frontend+Developer+from+India;⚡+Love+to+Code+%26+Design+with+Creativity" />
 </h3>
+
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s">
+
 ---
 
 ### 👨‍💻 About Me
@@ -34,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Analytics 
+### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnstack-college&theme=radical&layout=compact" alt="Top Languages" />
 </p>
@@ -44,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fnstack-college&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=fnstack-college&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -67,11 +69,4 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
-
-
-
-
-
-
 
