@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fnstack-college&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fnstack-college&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -69,4 +69,6 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+
 
