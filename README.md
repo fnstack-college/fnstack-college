@@ -70,14 +70,18 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 <div align="center" style="border: 3px solid purple; padding: 20px; border-radius: 15px; width: fit-content; margin: auto;">
-  <p>
-    <img src="https://img.shields.io/badge/Dear_Developers-9370DB?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <p style="font-family: cursive; font-size: 22px; color: purple; font-weight: bold;">
+    💻 Dear Developers
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Slow_Progress_is_Better_than_No_Progress-800080?style=for-the-badge&logo=github&logoColor=white" />
+  <p style="font-family: cursive; font-size: 20px; color: #4B0082;">
+    Slow Progress is Better than No Progress
   </p>
+
 </div>
+
+
 
 
 
