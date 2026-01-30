@@ -9,9 +9,16 @@
 </h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s"> -->
+<h1 align="center">👾 My Coding Room</h1>
+
 <p align="center">
-  <img src="assets/pixel-room.png" alt="Pixel Coding Room" width="100%" />
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/pixel-room.png">
 </p>
+
+<p align="center">
+  💻 DSA | Java | C++ | Web Dev  
+</p>
+
 
 
 ---
