@@ -8,9 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&width=600&lines=🚀+A+Passionate+Frontend+Developer+from+India;⚡+Love+to+Code+%26+Design+with+Creativity" />
 </h3>
 
-<!-- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s"> -->
+ <img align="right" alt="coding" width="4000" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s"> 
 <h1 align="center">👾 My Coding Room</h1>
-
 <p align="center">
   <img src="pixel.gif.gif" width="100%" />
 </p>
