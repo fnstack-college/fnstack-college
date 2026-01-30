@@ -12,12 +12,9 @@
 <h1 align="center">👾 My Coding Room</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/pixel-room.png">
+  <img src="pixel.gif.gif" width="100%" />
 </p>
 
-<p align="center">
-  💻 DSA | Java | C++ | Web Dev  
-</p>
 
 
 
