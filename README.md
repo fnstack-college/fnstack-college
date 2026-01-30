@@ -4,6 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00F779&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vivek+Kumar;Frontend+Developer;DSA+%26+UI/UX+Learner;MERN+Stack+Enthusiast;Open+Source+Contributor" />
 </h1>
 
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Vivek+Kumar;Java+%7C+DSA+Learner;Future+Software+Engineer;Love+Coding+%F0%9F%92%BB" />
+</p>
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Think.%20Code.%20Optimize.&fontSize=40"/>
+</h1>
+
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&width=600&lines=🚀+A+Passionate+Frontend+Developer+from+India;⚡+Love+to+Code+%26+Design+with+Creativity" />
 </h3>
