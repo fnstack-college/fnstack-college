@@ -53,9 +53,11 @@
 ---
 
 ### 🛠️ Languages and Tools:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,python,mysql,oracle,figma,git,docker,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,c,java,python,mysql,oracle,notion,figma,git,github,docker,vscode&perline=8" />
 </p>
+
 
 ---
 
