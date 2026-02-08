@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,c,java,python,mysql,oracle,notion,figma,git,github,docker,vscode&perline=8" />
-</p>
+</p> 
 
 
 ---
