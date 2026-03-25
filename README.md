@@ -18,9 +18,9 @@
 </h3>
 
 
-<img src="gif.pixel.jpg" width="250" align="right"/>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s" width="70%" />
+
+<img align="right" alt="coding" width="4000" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s">
 
 <h1 align="center">👾 My Coding Room</h1>
 <p align="center">
